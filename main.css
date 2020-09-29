@@ -28,6 +28,7 @@ h2 {
   p {
     background-color: #ff8641;
   }
+}
 
 	/*---------- TABLET ----------*/
 
@@ -41,6 +42,7 @@ h2 {
   p {
     background-color: #7b8f8e;
   }
+}
 
  /*----------Monitors----------*/
 @media (min-width: 1200px) {
@@ -53,4 +55,5 @@ h2 {
   p {
     background-color: #c19e74;
   }
+}
   
